@@ -6,7 +6,7 @@ Orbiter is a spaceflight simulator based on Newtonian mechanics. Its playground
 is our solar system with many of its major bodies – the sun, planets and moons.
 You take control of a spacecraft – either historic, hypothetical, or purely
 science fiction. Orbiter is unlike most commercial computer games with a space
-theme – there are no predefined missions to complete (except the ones you set
+theme – there are no predefined missions tmplete (except the ones you set
 yourself), no aliens to destroy and no goods to trade. Instead, you will get a
 pretty good idea about what is involved in real space flight – how to plan an
 ascent into orbit, how to rendezvous with a space station, or how to fly to
